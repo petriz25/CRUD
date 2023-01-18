@@ -1,0 +1,30 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fabfb7;
+}
+
+li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #84b6f4;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    border-radius: 10%;
+    border-style: solid;
+    padding: 1%;
+}
+
+p{
+    margin-left: 10px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.lista{
+    background-color:#77dd77 ;
+}
